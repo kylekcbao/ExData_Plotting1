@@ -1,3 +1,48 @@
+# Exploratory Data Analysis
+# Assignment: Course Project 1
+
+R Script Author: Kyle KC Bao
+
+Tested on 2016.02.17
+
+Working on R `3.2.2`
+
+## Files and Folders
+`figure` Folder containing plots used in **Making Plots** section of this README.
+
+`plot1.png` Plot 1
+
+`plot1.R` R script that plots `plot1.png`
+
+`plot2.png` Plot 2
+
+`plot2.R` R script that plots `plot2.png`
+
+`plot3.png` Plot 3
+
+`plot3.R` R script that plots `plot3.png`
+
+`plot4.png` Plot 4
+
+`plot4.R` R script that plots `plot4.png`
+
+`README.md` What you are reading right now.
+
+## Reproduction Steps
+To reproduce the plots, navigate to your working directory containing the R
+scripts available in this repository and run the following:
+
+```sh
+source("plot1.R")
+source("plot2.R")
+source("plot3.R")
+source("plot4.R")
+```
+
+The plots `plot1.png`, `plot2.png`, `plot3.png` and  `plot4.png` will be
+produced in the current working directory.
+
+
 ## Introduction
 
 This assignment uses data from
@@ -111,4 +156,3 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
